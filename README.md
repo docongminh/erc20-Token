@@ -8,5 +8,7 @@
 - Install dependencies: `yarn install`
 - Run webservice: `yarn dev`
 
+# Add on
+- other version with [vue-typescript](https://github.com/docongminh/erc20-vue-typescipt)
 
 Note: Borrow some  code from [react-dapp](https://github.com/jellydn/react-dapp)
